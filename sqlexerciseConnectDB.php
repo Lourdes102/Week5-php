@@ -21,3 +21,4 @@ echo "Database Connection Successful!";
 }
 $conn= null; 
 ?>
+<!-- This is a test comment -->
