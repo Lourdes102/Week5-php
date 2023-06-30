@@ -21,4 +21,5 @@ echo "Database Connection Successful!";
 }
 $conn= null; 
 ?>
-<!-- This is a test comment -->
+<!-- this is a new line of comment -->
+<!-- Second line of comment -->
